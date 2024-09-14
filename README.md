@@ -46,3 +46,5 @@ cv2.destroyAllWindows()
 
 ![Screenshot 2024-09-14 102829](https://github.com/user-attachments/assets/29de4a5a-043d-4d81-8c6c-f6c8b9ef8baa)
 
+## Result:
+Thus the code to working on an image was executed successfully.
